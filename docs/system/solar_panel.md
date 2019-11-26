@@ -111,7 +111,7 @@ The described equivalent circuit model is shown in Figure 3. It is also called s
 
 The following interactive graph plots the characteristic curves of a solar panel using an approximated solution of above model [2]. The equivalent circuit model parameters were calculated from datasheet parameters and can be adjusted for a specific solar panel. You can use it to evaluate how the ambient temperature and the irradiance influences the performance.
 
-<solar-panel-characteristic-curve/>
+<testing-interactive-diagram/>
 
 <figure>
 <center>
@@ -140,3 +140,7 @@ The default values in the graph are based on a typical 150 W module with 36 cell
 <!--
 [3] Calculator for daily solar irradiance: [Website](http://www.solarelectricityhandbook.com/solar-irradiance.html)
 -->
+
+
+
+
